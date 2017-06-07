@@ -1,0 +1,16 @@
+/*
+* @Author: FF
+* @Date:   2017-06-07 11:45:13
+* @Last Modified by:   FF
+* @Last Modified time: 2017-06-07 11:47:18
+*/
+body {
+	font-family: "Helvetica", "Atial", sans-serif;
+	font-size: 10pt;
+}
+
+abbr {
+	text-decoration: none;
+	border: 0;
+	font-style: normal;
+}

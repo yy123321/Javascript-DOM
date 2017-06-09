@@ -1,0 +1,16 @@
+/*
+* @Author: FF
+* @Date:   2017-06-09 10:20:52
+* @Last Modified by:   FF
+* @Last Modified time: 2017-06-09 14:17:07
+*/
+#slideshow {
+	width: 198px;
+	height: 124px;
+	position: relative;
+	overflow: hidden;
+}
+
+#preview {
+	position: absolute;
+}
